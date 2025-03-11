@@ -3,6 +3,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-14.x+-green)
 ![AWS SDK](https://img.shields.io/badge/AWS_SDK-v3-blue)
 ![MIT License](https://img.shields.io/badge/license-MIT-blue)
+![image](https://github.com/user-attachments/assets/7fe89e34-8001-49fb-985d-36db77eb62e4)
 
 ## 📖 Overview
 EaseHost is a deployment system that automates the build and deployment process of web applications to AWS S3. It's designed to work with various JavaScript frameworks and provides a streamlined deployment pipeline.
